@@ -55,13 +55,14 @@
 ---
 
 
-## Connect with Me 🌐
-
+### Connect with Me 🌐
 <p align="left">
-<a href="[https://linkedin.com/in/ganesh_sinnur](https://linkedin.com/in/ganesh_sinnur)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ganesh_sinnur" height="30" width="40" /></a>
-<a href="[https://instagram.com/ganeshsinnur](https://instagram.com/ganeshsinnur)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ganeshsinnur" height="30" width="40" /></a>
-<a href="[https://www.leetcode.com/ganesh_sinnur](https://www.leetcode.com/ganesh_sinnur)" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="ganesh_sinnur" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ganeshsinnur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ganeshsinnur" height="30" width="40" /></a>
+<a href="https://instagram.com/ganeshsinnur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ganeshsinnur" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ganesh_sinnur" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="ganesh_sinnur" height="30" width="40" /></a>
 </p>
+
+
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ganeshsinnur&label=Profile%20views&color=0e75b6&style=flat" alt="scarredhands" /> </p>
 
