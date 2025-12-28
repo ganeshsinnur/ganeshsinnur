@@ -62,7 +62,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ganeshsinnur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ganeshsinnur" height="30" width="40" /></a>
 <a href="https://instagram.com/ganeshsinnur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ganeshsinnur" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ganesh_sinnur" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="ganesh_sinnur" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ganesh_sinnur" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="ganesh_sinnur" height="40" width="40" /></a>
 </p>
 
 
