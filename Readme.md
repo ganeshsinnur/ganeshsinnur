@@ -1,3 +1,9 @@
+
+<p align="center">
+ <img alt="Coding" width=800 src="https://github.com/ganeshsinnur/ganeshsinnur/blob/main/asset/fight2.gif?raw=true">
+</p>
+
+
 # नमस्ते 🙏 (Namaste), I am Ganesh Sinnur
 
 ### A passionate Full-Stack Developer from India
@@ -68,4 +74,5 @@
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ganeshsinnur&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshsinnur" /> </p>
+<img align="center" alt="Coding" src="https://github.com/ganeshsinnur/ganeshsinnur/blob/main/asset/fight2.gif?raw=true">
 
