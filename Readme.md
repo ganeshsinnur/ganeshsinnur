@@ -1,6 +1,6 @@
 
 <p align="center">
- <img alt="Coding" width=800 src="https://github.com/ganeshsinnur/ganeshsinnur/blob/main/asset/fight2.gif?raw=true">
+ <img alt="Coding" width=400 src="https://github.com/ganeshsinnur/ganeshsinnur/blob/main/asset/fight2.gif?raw=true">
 </p>
 
 
