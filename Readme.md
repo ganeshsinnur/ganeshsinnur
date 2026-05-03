@@ -11,7 +11,7 @@
 * 🔭 I’m currently working on a **[startup](https://github.com/vartha-ai)** project.
 * 🌱 I’m currently learning **DevOps** and exploring **Rust for backend development**.
 * 💬 Ask me about **Flutter, Mobile App Development, Node.js, and MySQL**.
-* 📝 Beyond code, I sometimes indulge in writing articles on **[blogspot](https://www.blogger.com/profile/06624649351534575389)**, where I often take on the persona of a **novelist** to bring a unique narrative style to the topics.
+* 📝 Beyond code, I sometimes indulge in writing articles on **[blogspot](https://ganeshsinnur.blogspot.com)**, where I often take on the persona of a **novelist** to bring a unique narrative style to the topics.
 * 📫 Reach me at **sinnurganesh456@gmail.com**.
 * ⚡ Fun fact: My friends rely on me for recommendations - I'm told I have excellent taste in **movies and music**.
 
