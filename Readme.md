@@ -55,21 +55,27 @@
 <!-- <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> -->
 </p>
 
----
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ganeshsinnur&show_icons=true&locale=en" alt="ganeshsinnur" /></p>
 
----
-
-
-### Connect with Me 🌐
+## Connect with Me 🌐
 <p align="left">
 <a href="https://linkedin.com/in/ganeshsinnur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ganeshsinnur" height="30" width="40" /></a>
 <a href="https://instagram.com/ganeshsinnur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ganeshsinnur" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ganesh_sinnur" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="ganesh_sinnur" height="40" width="40" /></a>
 </p>
 
+## 📊 Analytics & Insights
 
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ganeshsinnur&show_icons=true&theme=radical&hide_border=false" alt="Ganesh's GitHub Stats" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshsinnur&theme=radical&hide_border=false" alt="Ganesh's Streak Stats" height="160px" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ganeshsinnur&theme=radical&hide_border=false&layout=compact" alt="Ganesh's Top Languages" height="160px" />
+</div>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ganeshsinnur&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshsinnur" /> </p>
-<!-- <img align="center" alt="Coding" src="https://github.com/ganeshsinnur/ganeshsinnur/blob/main/asset/fight2.gif?raw=true"> -->
+---
 
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=ganeshsinnur&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Visitor Count" />
+</div>
